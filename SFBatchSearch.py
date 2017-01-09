@@ -2,7 +2,6 @@
 
 from os import system
 from sys import argv
-from time import sleep as sleep
 from webbrowser import open as urlopen
 
 theFile = open(argv[1], 'r')
