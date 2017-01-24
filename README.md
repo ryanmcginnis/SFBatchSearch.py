@@ -1,5 +1,3 @@
-# SFBatchSearch.py
-
 ## Overview
 BatchSearch.py makes batch searching in Salesforce Console simple. The script accepts a plaintext file containing a list of search terms and executes the search automatically. 
 
