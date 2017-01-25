@@ -9,9 +9,9 @@ SFBatchSearch relies on the basic Python library and your web browser to parse a
 ## Compatibility
 SFBatchSearch was written for, and tested under, macOS and Linux. Currently, the program may crash on Windows systems at `system('clear')`. If you encounter this problem:
 
-    1. Open SFBatchSearch in your editor
-    2. Change `system('clear')` to `system('CLS')`
-    3. Save the file
+1. Open SFBatchSearch in your editor
+2. Change `system('clear')` to `system('CLS')`
+3. Save the file
 
 ## Workflow
 Run `python /path/to/script/ /path/to/file.txt` as illustrated below.
