@@ -14,11 +14,11 @@ SFBatchSearch was written for, and tested under, macOS and Linux. Currently, the
 3. Save the file
 
 ## Workflow
-Run `python /path/to/script/ /path/to/file.txt` as illustrated below.
+Run `python /path/to/script.py /path/to/file.txt` as illustrated below.
 
 ![img1](https://github.com/ryanmcginnis/SFBatchSearch.py/blob/master/images/img1.png)
 
-The program opens the Salesforce login page in your web browser. Because the program does not rely on the Salesforce API, the user must manually log in. Log in to Salesforce, then return to the CLI and press the Return key. If you are already logged in, press the Return key.
+The program opens the Salesforce login page in your web browser. Because the program does use the Salesforce SOAP API, the user must manually log in. Log in to Salesforce, then return to the program and press the Return key. If you are already logged in, press the Return key.
 
 ![img2](https://github.com/ryanmcginnis/SFBatchSearch.py/blob/master/images/img2.png)
 
